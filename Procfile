@@ -1,0 +1,1 @@
+web: gunicorn github_profiler.wsgi --log-file -
